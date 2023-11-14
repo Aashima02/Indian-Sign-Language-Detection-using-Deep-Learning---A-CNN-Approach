@@ -29,7 +29,7 @@ pip install opencv-python
 ```
 
 ## PROGRAM:
-### cnn_model.py
+### cnn.py
 ```python
 # Part 1 - Building the CNN
 #importing the Keras libraries and packages
@@ -125,7 +125,7 @@ plt.legend(['train', 'test'], loc='upper left')
 plt.show()
 ```
 
-### recognise.py:
+### signdetect.py:
 ```python
 import cv2
 import numpy as np
