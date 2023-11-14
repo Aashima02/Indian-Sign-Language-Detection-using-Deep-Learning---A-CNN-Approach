@@ -263,7 +263,8 @@ cv2.destroyAllWindows()
 4. The opencv package creates a bounding box, where the signs are captured and converted to lower blue and upper blue hsv channels for identification.
 5. The image is compared with the dataset and the letters are visualised in textual formats.
 
-![Project Flow](https://github.com/Aashima02/isl/assets/93427086/c23ab1e1-c978-45a6-9c21-04257ea01d18)
+<img width="500" alt="flow" src="https://github.com/Aashima02/isl/assets/93427086/c23ab1e1-c978-45a6-9c21-04257ea01d18">
+
 
 ## CNN MODEL ARCHITECTURE:
 
