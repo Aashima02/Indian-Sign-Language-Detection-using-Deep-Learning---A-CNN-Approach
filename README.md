@@ -8,6 +8,10 @@ Humans converse through a vast collection of languages, allowing them to exchang
 
 This experiment developed an efficient deep learning model to transform the Indian Sign Language signs for letters to textual format. We adapt an ISL dataset, preprocess them and feed them into a Convolution Neural Network(CNN). This CNN model is specifically designed for image processing. At the initial level of the CNN model, we’ve used a convolutional layer for feature extraction and MaxPooling layers for object recognition tasks. This set of outputs is later fed into a flattening layer, whose main function is to convert the 2-dimensional arrays from pooled feature maps into a long continuous linear vector. Such use of multiple layers within the CNN model helps in improving the accuracy and thus providing perfect interpretations.
 
+### SAMPLE DATASET:
+
+![islthird](https://github.com/Aashima02/isl/assets/93427086/46e12eef-3989-419d-a9ec-8e900021ead6)
+
 ## REQUIREMENTS:
 
 * A suitable python environment
