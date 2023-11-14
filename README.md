@@ -267,27 +267,30 @@ cv2.destroyAllWindows()
 4. The opencv package creates a bounding box, where the signs are captured and converted to lower blue and upper blue hsv channels for identification.
 5. The image is compared with the dataset and the letters are visualised in textual formats.
 
-<img width="500" alt="flow" src="https://github.com/Aashima02/isl/assets/93427086/c23ab1e1-c978-45a6-9c21-04257ea01d18">
+<img width="500" alt="flow" src="https://github.com/Aashima02/Indian-Sign-Language-Detection-using-Deep-Learning---A-CNN-Approach/assets/93427086/bb74d302-9184-4e4a-8a18-308cd14993e3">
 
 
 ## CNN MODEL ARCHITECTURE:
 
-![CNN ARCHITETURE](https://github.com/Aashima02/isl/assets/93427086/79018663-0fe3-41fe-a175-9e61c4fed5c9)
+![CNN ARCHITETURE](https://github.com/Aashima02/Indian-Sign-Language-Detection-using-Deep-Learning---A-CNN-Approach/assets/93427086/d1383de4-dcf4-49d3-9ced-9676f206e0ec)
+
 
 ## OUTPUT:
 
 ### Sample Detection Images:
-![WhatsApp Image 2023-11-14 at 16 25 07_4d8bee6b](https://github.com/Aashima02/isl/assets/93427086/88cd523d-6864-4825-b89d-8782405b5f3a)
+![g](https://github.com/Aashima02/Indian-Sign-Language-Detection-using-Deep-Learning---A-CNN-Approach/assets/93427086/d9e56c1d-9474-4021-b85e-c1220b0b2937)
 
-![WhatsApp Image 2023-11-14 at 16 27 12_b4e59e51](https://github.com/Aashima02/isl/assets/93427086/9fc9c463-21e2-48b6-83cc-3b674a2d00c3)
+![u](https://github.com/Aashima02/Indian-Sign-Language-Detection-using-Deep-Learning---A-CNN-Approach/assets/93427086/60c2a7da-ce67-4622-95ac-127d3f60f22f)
 
-![WhatsApp Image 2023-11-14 at 16 35 05_bb71b87d](https://github.com/Aashima02/isl/assets/93427086/9a7dcccd-cbdb-4ecf-9082-86e3863f17aa)
+![x](https://github.com/Aashima02/Indian-Sign-Language-Detection-using-Deep-Learning---A-CNN-Approach/assets/93427086/c31450a3-f71c-47f2-90da-00d88f2b6f8a)
 
 ### Accuracy Plot:
-![accuracy plot](https://github.com/Aashima02/isl/assets/93427086/bf3a801c-729f-45f6-8a52-0fe76ade7358)
+![accuracy plot](https://github.com/Aashima02/Indian-Sign-Language-Detection-using-Deep-Learning---A-CNN-Approach/assets/93427086/7b9d51fc-92c6-4642-9634-4e39a85834d2)
+
 
 ### Loss Plot:
-![loss plot](https://github.com/Aashima02/isl/assets/93427086/a0a88ee4-e8c0-4fe5-9d39-5f188d063f47)
+![loss plot](https://github.com/Aashima02/Indian-Sign-Language-Detection-using-Deep-Learning---A-CNN-Approach/assets/93427086/1607d36c-baf9-4544-a54b-83ba05cd964d)
+
 
 
 ## RESULT:
