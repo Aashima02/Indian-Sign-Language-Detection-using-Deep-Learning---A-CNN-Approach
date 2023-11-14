@@ -261,9 +261,9 @@ cv2.destroyAllWindows()
 ## FLOW OF THE PROJECT:
 
 
-1. The cnn_model.py file contains the main model of the project, containing multiple layers for feature extraction and object detecction.
+1. The cnn.py file contains the main model of the project, containing multiple layers for feature extraction and object detecction.
 2. The code is saved as a trained model in a Hierarchial Data Format(HDF5) file format.
-3. Run recognise.py, whose ultimate goal is to recognise the signs.
+3. Run signdetect.py, whose ultimate goal is to recognise the signs.
 4. The opencv package creates a bounding box, where the signs are captured and converted to lower blue and upper blue hsv channels for identification.
 5. The image is compared with the dataset and the letters are visualised in textual formats.
 
