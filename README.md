@@ -277,6 +277,11 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 
 ### Sample Detection Images:
+![WhatsApp Image 2023-11-14 at 16 25 07_4d8bee6b](https://github.com/Aashima02/isl/assets/93427086/88cd523d-6864-4825-b89d-8782405b5f3a)
+
+![WhatsApp Image 2023-11-14 at 16 27 12_b4e59e51](https://github.com/Aashima02/isl/assets/93427086/9fc9c463-21e2-48b6-83cc-3b674a2d00c3)
+
+![WhatsApp Image 2023-11-14 at 16 35 05_bb71b87d](https://github.com/Aashima02/isl/assets/93427086/9a7dcccd-cbdb-4ecf-9082-86e3863f17aa)
 
 ### Accuracy Plot:
 ![accuracy plot](https://github.com/Aashima02/isl/assets/93427086/bf3a801c-729f-45f6-8a52-0fe76ade7358)
